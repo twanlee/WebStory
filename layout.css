@@ -1,0 +1,27 @@
+#header {
+    font-family: Arial;
+    text-align: center;
+    background-image: url("https://etc.usf.edu/clipart/72900/72943/72943_fairy-tree_lg.gif");
+    background-size: 100% 100%;
+    background-repeat : no-repeat;
+    font-size: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+}
+#ft{
+    padding-top: 9%;
+    color: brown;
+
+}
+.menu{
+    text-align: center;
+    list-style: inside;
+    /*margin : 70px;*/
+    /*line-height: 40px;*/
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+
+}
